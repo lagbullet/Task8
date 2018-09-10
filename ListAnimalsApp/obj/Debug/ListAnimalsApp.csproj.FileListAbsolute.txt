@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\bin\Debug\ListAnimalsApp.exe.config
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\bin\Debug\ListAnimalsApp.exe
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\bin\Debug\ListAnimalsApp.pdb
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\obj\Debug\ListAnimalsApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\obj\Debug\ListAnimalsApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\obj\Debug\ListAnimalsApp.exe
+C:\Users\Alexander\source\repos\ListAnimalsApp\ListAnimalsApp\obj\Debug\ListAnimalsApp.pdb
